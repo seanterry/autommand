@@ -1,2 +1,2 @@
-# autommand
-A background command processor for .NET
+# Autommand
+A background command processor for .NET.
